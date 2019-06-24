@@ -75,3 +75,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/l983Armageddon/Intermediate/CachedAssetRegistry.bin
+/l983Armageddon/Saved/Autosaves/PackageRestoreData.json
+/l983Armageddon/Saved/Config/Windows/*.ini
+/l983Armageddon/Saved/Config/Windows/*.ini
+/l983Armageddon/Saved/Config/Windows/*.ini
+/l983Armageddon/Saved/Logs/*.log
